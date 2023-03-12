@@ -1,2 +1,3 @@
 # ian.hember.name
-My personal website that will expand to include tools used by me team members as needed.
+
+This is a space for a personal website that I will use to incorporate resources for my team members. It's still in its infancy so it will grow over time.
